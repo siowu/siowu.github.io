@@ -113,7 +113,7 @@ body {
 }
 
 .meBox-text p {
-    margin-top: 5px;
+    margin-top: 1px;
 }
 
 .meBox:hover .meBox-text {
