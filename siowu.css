@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://www.xiqianyangyi.com/uploaded/2022-07-27/1658897304090_bg.jpg);
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://siowu.vercel.app/bg.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -39,7 +39,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url(https://www.xiqianyangyi.com/uploaded/2022-07-27/1658897321427_head.gif) no-repeat;
+    background: url(https://siowu.vercel.app/head.gif) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
